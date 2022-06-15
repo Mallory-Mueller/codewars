@@ -7,4 +7,4 @@ def xo(s):
         return True
     else:
         return False
-    
+    print("Now")
